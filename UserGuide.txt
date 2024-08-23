@@ -1,0 +1,7 @@
+The objective of this game is to quickly type out the random string of length 6 before those strings reach the ground.
+Once the game has begun, if you type the first letter of any of the strings present, that string will turn red.
+After this happens, the user will be locked into finishing that specific string. 
+It is recommended that the user starts with the word closest to the bottom and continues from there.
+Once a string is finished, move on the next string and go from there until you lose and the game ends.
+The game ends when a word, either black or red, touches the bottom of the screen.
+A "You Lost" message will display to convey the end of the game session.
